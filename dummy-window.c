@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
 	if (argc >= 2) {
 		title = argv[1];
 	} else {
-		title = "Dummy Window";
+		title = "Blank Window";
 	}
 
 	// Initialize SDL
